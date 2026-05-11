@@ -1,4 +1,4 @@
-
+new CrossOver for macOS Script | file-sharing + clipboard-sharing is the best CrossOver for macOS script, featuring file-sharing and clipboard-sharing. Powerful, efficient, and
 
 
 
